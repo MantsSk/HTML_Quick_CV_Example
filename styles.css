@@ -1,0 +1,88 @@
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.introduction ul {
+	padding: 0;
+	margin: 0;
+    width: 300px;
+    margin:auto;
+}
+
+.introduction li {
+	padding: 0.5rem 1.5rem 1rem;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+	border-radius: 1.5rem;
+	background: peachpuff;
+    font-size: 12px;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Main Content Styles */
+main {
+    /* padding: 20px; */
+}
+
+.work_experience {
+    padding: 20px;
+}
+
+.introduction {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+h2 { 
+    text-align: center;
+}
+
+article, section {
+    margin-bottom: 30px;
+}
+
+article h2, section h2 {
+    color: #333;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
